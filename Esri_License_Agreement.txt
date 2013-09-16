@@ -1,0 +1,4 @@
+Copyright (c) 1999 Environmental Systems Research Institute,
+Inc. All rights reserved.
+This software is the exclusive property of Environmental 
+Systems Research Institute, Inc.

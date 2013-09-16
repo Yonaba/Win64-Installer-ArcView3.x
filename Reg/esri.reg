@@ -1,0 +1,109 @@
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ArcView GIS Version 3.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ArcView GIS Version 3.0\3.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ArcView GIS Version 3.0\CurrentVersion]
+"Language"="English"
+"Path"="C:\\ESRI\\AV_GIS30\\ARCVIEW\\BIN32"
+"Folder"="ESRI\\ArcView GIS 3.2a"
+"Version"="3.2.1"
+"MajorVersion"="3"
+"MinorVersion"="2.1"
+"ReleaseDate"="2000\\04\\11"
+"HelpPath"="C:\\ESRI\\AV_GIS30\\ArcView\\help"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ArcView Lock Manager 1.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ArcView Lock Manager 1.0\CurrentVersion]
+"Path"="C:\\ESRI\\AV_GIS30\\ARCVIEW"
+"Folder"="ESRI\\ArcView GIS 3.2a"
+"Version"="1.0"
+"MajorVersion"="1"
+"MinorVersion"="0"
+"ReleaseDate"="1998\\07\\17"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ArcView Projection Utility]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ArcView Projection Utility\CurrentVersion]
+"Language"="English"
+"Path"="C:\\ESRI\\AV_GIS30\\ARCVIEW\\BIN32"
+"Folder"="ESRI\\ArcView GIS 3.2a"
+"Version"="1.1.0.170"
+"MajorVersion"="1"
+"MinorVersion"="1.0.170"
+"ReleaseDate"="2000\\04\\07"
+"ShowAdvancedTabs"="False"
+"LastInputDir"=""
+"LastOutputDir"=""
+"ViewLogFile"="False"
+"LastListView"="3"
+"LogFile"="apu.log"
+"LogViewer"="wordpad.exe"
+"LastInputCSYS"=""
+"LastOutputCSYS"=""
+"Reserved1"=""
+"HelpPath"="C:\\ESRI\\AV_GIS30\\ARCVIEW\\HELP"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ESRIDataandMapsVolume1]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ESRIDataandMapsVolume1\CurrentVersion]
+"Path"="C:\\ESRI\\ESRIDATA"
+"Version"="1.0"
+"MajorVersion"="1"
+"MinorVersion"="0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ESRIDataandMapsVolume1\CurrentVersion\Canada]
+"Province"="C:\\ESRI\\ESRIDATA\\Canada\\province.shp"
+"Cities"="C:\\ESRI\\ESRIDATA\\Canada\\cities.shp"
+"InterstateLines"="C:\\ESRI\\ESRIDATA\\Canada\\roads.shp"
+"Lakes"="C:\\ESRI\\ESRIDATA\\Canada\\lakes.shp"
+"Rivers"="C:\\ESRI\\ESRIDATA\\Canada\\rivers.shp"
+"InterstatesRoutes"="C:\\ESRI\\ESRIDATA\\Canada\\roads_rt.shp"
+"Drainage"="C:\\ESRI\\ESRIDATA\\Canada\\drainage.shp"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ESRIDataandMapsVolume1\CurrentVersion\europe]
+"Cities"="C:\\ESRI\\ESRIDATA\\europe\\cities.shp"
+"Country"="C:\\ESRI\\ESRIDATA\\europe\\country.shp"
+"Rivers"="C:\\ESRI\\ESRIDATA\\europe\\mjrivers.shp"
+"Urban"="C:\\ESRI\\ESRIDATA\\europe\\mjurban.shp"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ESRIDataandMapsVolume1\CurrentVersion\Mexico]
+"States"="C:\\ESRI\\ESRIDATA\\Mexico\\states.shp"
+"Cities"="C:\\ESRI\\ESRIDATA\\Mexico\\cities.shp"
+"InterstateLines"="C:\\ESRI\\ESRIDATA\\Mexico\\roads.shp"
+"Lakes"="C:\\ESRI\\ESRIDATA\\Mexico\\lakes.shp"
+"Rivers"="C:\\ESRI\\ESRIDATA\\Mexico\\rivers.shp"
+"InterstateRoutes"="C:\\ESRI\\ESRIDATA\\Mexico\\routes.shp"
+"Drainage"="C:\\ESRI\\ESRIDATA\\Mexico\\drainage.shp"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ESRIDataandMapsVolume1\CurrentVersion\USA]
+"States"="C:\\ESRI\\ESRIDATA\\USA\\states.shp"
+"Counties"="C:\\ESRI\\ESRIDATA\\USA\\counties.shp"
+"MajorCities"="C:\\ESRI\\ESRIDATA\\USA\\cities.shp"
+"InterstateLines"="C:\\ESRI\\ESRIDATA\\USA\\roads.shp"
+"Lakes"="C:\\ESRI\\ESRIDATA\\USA\\lakes.shp"
+"Rivers"="C:\\ESRI\\ESRIDATA\\USA\\rivers.shp"
+"Roads"="C:\\ESRI\\ESRIDATA\\USA\\roads.shp"
+"Drainage"="C:\\ESRI\\ESRIDATA\\USA\\drainage.shp"
+"PopulatedCities"="C:\\ESRI\\ESRIDATA\\USA\\Places.shp"
+"ADI"="C:\\ESRI\\ESRIDATA\\USA\\adi.shp"
+"InterstateRoutes"="C:\\ESRI\\ESRIDATA\\USA\\routes.shp"
+"ZipUSA"="C:\\ESRI\\ESRIDATA\\USA\\zip_usa.shp"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\ESRIDataandMapsVolume1\CurrentVersion\World]
+"country"="C:\\ESRI\\ESRIDATA\\World\\country.shp"
+"Lakes"="C:\\ESRI\\ESRIDATA\\world\\lakes.shp"
+"Rivers"="C:\\ESRI\\ESRIDATA\\world\\rivers.shp"
+"Cities"="C:\\ESRI\\ESRIDATA\\World\\cities.shp"
+"BackGround"="C:\\ESRI\\ESRIDATA\\World\\world30.shp"
+"Cntry92"="C:\\ESRI\\ESRIDATA\\World\\cntry92.shp"
+"Drainage"="C:\\ESRI\\ESRIDATA\\world\\drainage.shp"
+"5DegreeLatLong"="C:\\ESRI\\ESRIDATA\\World\\geogrid.shp"
+"NamedLatLong"="C:\\ESRI\\ESRIDATA\\World\\latlong.shp"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\MapObjects 2]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ESRI\MapObjects 2\Data Sources]
+"Shape"="Shape20.dll"
