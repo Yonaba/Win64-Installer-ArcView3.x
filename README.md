@@ -5,6 +5,19 @@ This is an *.iss* script, provided along with some registry scripts and compiled
 
 ![Screenshot](https://raw.github.com/Yonaba/Win64-Installer-ArcView3.x/master/arcview_gis_32a_screenshot.png)
 
+##Download
+
+### Using Git
+
+    git clone git@github.com:Yonaba/Win64-Installer-ArcView3.x
+
+### Direct download
+
+* *Download as* : [Zip](http://github.com/Yonaba/Win64-Installer-ArcView3.x/archive/master.zip)
+* *Download as* : [Tar](http://github.com/Yonaba/Win64-Installer-ArcView3.x/archive/master.tar.gz)
+
+
+
 ## Technical details
 *ESRI ArcView 3.2a* is both x86 and x64-compatible, *but the standard installer is 16-bits*.
 Therefore, it cannot run on x64 based systems. Unless you proceed manually to some hacky
