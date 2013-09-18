@@ -1,8 +1,9 @@
 Win64-Installer-ArcView3.x
 ==========================
 
-This is an *.iss* script, provided along with some registry scripts and compiled Windows *.dlls (to be used with [Inno Setup](http://www.jrsoftware.org/)) to create on your own a x64-compatible setup for [ArcView 3.2a](http://en.wikipedia.org/wiki/ArcView_3.x) from a x86 (32-bits) installation.
+This is an *.iss* script, provided along with some registry scripts and compiled Windows *.dlls (to be used with [Inno Setup](http://www.jrsoftware.org/)) to create on your own a x64-compatible setup for [ArcView 3.2a](http://en.wikipedia.org/wiki/ArcView_3.x) from a x86 (32-bits) installation.<br><br>
 
+![Screenshot](https://raw.github.com/Yonaba/Win64-Installer-ArcView3.x/master/arcview_gis_32a_screenshot.png)
 
 ## Technical details
 *ESRI ArcView 3.2a* is both x86 and x64-compatible, *but the standard installer is 16-bits*.
