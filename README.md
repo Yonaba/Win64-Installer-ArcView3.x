@@ -40,3 +40,7 @@ Find the generated executable in the [build](http://github.com/Yonaba/Win64-Inst
 > Inc. All rights reserved. <br>
 > This software is the exclusive property of *Environmental 
 > Systems Research Institute, Inc*.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Yonaba/win64-installer-arcview3.x/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
